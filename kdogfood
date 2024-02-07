@@ -1,0 +1,96 @@
+# kdogfood
+food
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>kelvins's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#mug-muffen">mug muffens</a></li>
+            <li><a href="#og-cerial">og cereal</a></li>
+            <li><a href="#eggs">eggs</a></li>
+        </ol>
+        
+        <h2 id="mug-muffen">mug muffen</h2>
+        <img src="https://images.app.goo.gl/XB51gQRWMG9qY9zE6">
+        
+        <ul>
+            <li>Time: 3 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> put all dry ingreadeants into a bowl </p>
+         <p><strong>Step 2:</strong> then add all the wet ingreadeants  </p>
+          <p><strong>Step 3:</strong> stir well </p>
+          <p><strong>Step 4:</strong> microwave for 1 minute  </p>
+         
+         
+    <p><em>Source: <a href="https://spoonuniversity.com/recipe/3-insanely-easy-muffin-recipes-can-make-mug">3 easy mug muffens</a></em></p>
+    <h3 id="og-cerial">og cereal</h3>
+    <ul>
+            <li>Time: 5 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> put sereal in bowl </p>
+         <p><strong>Step 2:</strong> add hunny  </p>
+          <p><strong>Step 3:</strong> add rasens </p>
+          <p><strong>Step 4:</strong> add peanutbutter  </p>
+         <p><strong>Step 5:</strong> pore milk  </p>
+         <h4 id="eggs">eggs</h4>
+         <ul>
+            <li>Time: 10 min</li>
+            <li>Serves: 1-4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> crack eggs in pan </p>
+         <p><strong>Step 2:</strong> add cheeze  </p>
+          <p><strong>Step 3:</strong> add rasens </p>
+          <p><strong>Step 4:</strong> cook  </p>
+         <p><strong>Step 5:</strong> add more cheeze on top  </p>
+         
+    
+  </body>
+  </html>
